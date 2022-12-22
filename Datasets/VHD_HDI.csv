@@ -1,0 +1,31 @@
+HDI_2021,Country,HDI_2021_Value,Expectancy_2021,Expected_years_of_schooling_2021,Mean_years_of_schooling_2021,GNI_per_capita_2021,HDI_2020,,Countries,Values,Schooling,HDI,Years
+1,Switzerland,0.962,84,16.5,13.9,"66,933",3,,Switzerland,16.5,Expected Years,3, Year 2020
+2,Norway,0.961,83.2,18.2,13,"64,660",1,,Norway,18.2,Expected Years,1, Year 2020
+3,Iceland,0.959,82.7,19.2,13.8,"55,782",2,,Iceland,19.2,Expected Years,2, Year 2020
+4,"Hong Kong, China (SAR)",0.952,85.5,17.3,12.2,"62,607",4,,"Hong Kong, China (SAR)",17.3,Expected Years,4, Year 2020
+5,Australia,0.951,84.5,21.1,12.7,"49,238",5,,Australia,21.1,Expected Years,5, Year 2020
+6,Denmark,0.948,81.4,18.7,13,"60,365",5,,Denmark,18.7,Expected Years,5, Year 2020
+7,Sweden,0.947,83,19.4,12.6,"54,489",9,,Sweden,19.4,Expected Years,9, Year 2020
+8,Ireland,0.945,82,18.9,11.6,"76,169",8,,Ireland,18.9,Expected Years,8, Year 2020
+9,Germany,0.942,80.6,17,14.1,"54,534",7,,Germany,17,Expected Years,7, Year 2020
+10,Netherlands,0.941,81.7,18.7,12.6,"55,979",10,,Netherlands,18.7,Expected Years,10, Year 2020
+11,Finland,0.94,82,19.1,12.9,"49,452",12,,Finland,19.1,Expected Years,12, Year 2020
+12,Singapore,0.939,82.8,16.5,11.9,"90,919",10,,Singapore,16.5,Expected Years,10, Year 2020
+13,Belgium,0.937,81.9,19.6,12.4,"52,293",16,,Belgium,19.6,Expected Years,16, Year 2020
+13,New Zealand,0.937,82.5,20.3,12.9,"44,057",13,,New Zealand,20.3,Expected Years,13, Year 2020
+15,Canada,0.936,82.7,16.4,13.8,"46,808",15,,Canada,16.4,Expected Years,15, Year 2020
+,,,,,,,,,Switzerland,13.9,Mean Years,1,Year 2021
+,,,,,,,,,Norway,13,Mean Years,2,Year 2021
+,,,,,,,,,Iceland,13.8,Mean Years,3,Year 2021
+,,,,,,,,,"Hong Kong, China (SAR)",12.2,Mean Years,4,Year 2021
+,,,,,,,,,Australia,12.7,Mean Years,5,Year 2021
+,,,,,,,,,Denmark,13,Mean Years,6,Year 2021
+,,,,,,,,,Sweden,12.6,Mean Years,7,Year 2021
+,,,,,,,,,Ireland,11.6,Mean Years,8,Year 2021
+,,,,,,,,,Germany,14.1,Mean Years,9,Year 2021
+,,,,,,,,,Netherlands,12.6,Mean Years,10,Year 2021
+,,,,,,,,,Finland,12.9,Mean Years,11,Year 2021
+,,,,,,,,,Singapore,11.9,Mean Years,12,Year 2021
+,,,,,,,,,Belgium,12.4,Mean Years,13,Year 2021
+,,,,,,,,,New Zealand,12.9,Mean Years,13,Year 2021
+,,,,,,,,,Canada,13.8,Mean Years,15,Year 2021
